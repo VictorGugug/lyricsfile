@@ -1,0 +1,21 @@
+version: '1.0'
+
+metadata:
+  title: 'City Signals'
+  artist: 'Example Artist'
+  duration_ms: 198000
+  language: 'en'
+  instrumental: false
+
+lines:
+  - text: 'Waiting for the signal'
+    start_ms: 12400
+    end_ms: 15750
+  - text: 'Watching all the lights change'
+    start_ms: 15800
+    end_ms: 20100
+
+plain: |
+  [Verse]
+  Waiting for the signal
+  Watching all the lights change

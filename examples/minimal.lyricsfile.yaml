@@ -1,0 +1,9 @@
+version: '1.0'
+
+metadata:
+  title: 'Morning Light'
+  artist: 'Example Artist'
+
+plain: |
+  Morning light through the window
+  A new day begins

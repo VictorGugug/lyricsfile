@@ -1,0 +1,900 @@
+lyricsfile: '1.1'
+version: '1.1'
+metadata:
+  title: White Ball
+  artist: Miracle musical
+  album: "Hawaii: Part II"
+  vocalists:
+    - id: v1
+      name: Lead
+      type: person
+    - id: v2
+      name: Duet
+      type: person
+x_amll_tool:
+  extra_metadata:
+    songwriter:
+      - Zubin Sedghi
+      - Joseph Hawley
+      - Bora Karaca
+    artists:
+      - Joachim Horsley
+      - Ross S. Federman
+      - Jay Golden
+      - Alyson Montez
+      - Stephanie Koenig
+lines:
+  - text: Drift aloft
+    start_ms: 6734
+    end_ms: 8669
+    vocalist:
+      - v1
+    words:
+      - text: "Drift "
+        start_ms: 6734
+        end_ms: 7368
+      - text: a
+        start_ms: 7368
+        end_ms: 7600
+      - text: loft
+        start_ms: 7600
+        end_ms: 8669
+  - text: In some effortless place
+    start_ms: 9254
+    end_ms: 12117
+    vocalist:
+      - v1
+    words:
+      - text: "In "
+        start_ms: 9254
+        end_ms: 9584
+      - text: "some "
+        start_ms: 9584
+        end_ms: 10063
+      - text: ef
+        start_ms: 10063
+        end_ms: 10338
+      - text: fort
+        start_ms: 10338
+        end_ms: 10630
+      - text: "less "
+        start_ms: 10630
+        end_ms: 10924
+      - text: place
+        start_ms: 10924
+        end_ms: 12117
+  - text: Bound by delicate dread
+    start_ms: 12576
+    end_ms: 15494
+    vocalist:
+      - v1
+    words:
+      - text: "Bound "
+        start_ms: 12576
+        end_ms: 12918
+      - text: "by "
+        start_ms: 12918
+        end_ms: 13364
+      - text: del
+        start_ms: 13364
+        end_ms: 13652
+      - text: i
+        start_ms: 13652
+        end_ms: 13883
+      - text: "cate "
+        start_ms: 13883
+        end_ms: 14282
+      - text: dread
+        start_ms: 14282
+        end_ms: 15494
+  - text: Saving no face
+    start_ms: 15887
+    end_ms: 19553
+    vocalist:
+      - v1
+    words:
+      - text: Sav
+        start_ms: 15887
+        end_ms: 16223
+      - text: "ing "
+        start_ms: 16223
+        end_ms: 16667
+      - text: "no "
+        start_ms: 16667
+        end_ms: 18099
+      - text: face
+        start_ms: 18404
+        end_ms: 19553
+  - text: Air dissolves
+    start_ms: 20012
+    end_ms: 22204
+    vocalist:
+      - v2
+    words:
+      - text: "Air "
+        start_ms: 20012
+        end_ms: 20612
+      - text: dis
+        start_ms: 20612
+        end_ms: 20837
+      - text: solves
+        start_ms: 20837
+        end_ms: 22204
+  - text: Where one game is designed
+    start_ms: 22502
+    end_ms: 25244
+    vocalist:
+      - v2
+    words:
+      - text: "Where "
+        start_ms: 22502
+        end_ms: 22928
+      - text: "one "
+        start_ms: 22928
+        end_ms: 23320
+      - text: "game "
+        start_ms: 23320
+        end_ms: 23617
+      - text: "is "
+        start_ms: 23617
+        end_ms: 23915
+      - text: de
+        start_ms: 23915
+        end_ms: 24170
+      - text: signed
+        start_ms: 24170
+        end_ms: 25244
+  - text: Something's elegant find
+    start_ms: 25868
+    end_ms: 28693
+    vocalist:
+      - v2
+    words:
+      - text: Some
+        start_ms: 25868
+        end_ms: 26228
+      - text: "thing's "
+        start_ms: 26228
+        end_ms: 26682
+      - text: ele
+        start_ms: 26682
+        end_ms: 26954
+      - text: "gant "
+        start_ms: 26954
+        end_ms: 27473
+      - text: find
+        start_ms: 27473
+        end_ms: 28693
+  - text: So the program goes
+    start_ms: 29242
+    end_ms: 34936
+    vocalist:
+      - v2
+    words:
+      - text: "So "
+        start_ms: 29242
+        end_ms: 29590
+      - text: "the "
+        start_ms: 29590
+        end_ms: 30003
+      - text: pro
+        start_ms: 30003
+        end_ms: 31683
+      - text: "gram "
+        start_ms: 31683
+        end_ms: 33303
+      - text: goes
+        start_ms: 33303
+        end_ms: 34936
+  - text: Check it out
+    start_ms: 43092
+    end_ms: 43556
+    vocalist:
+      - v2
+    role: background
+    words:
+      - text: "Check "
+        start_ms: 43092
+        end_ms: 43252
+      - text: "it "
+        start_ms: 43252
+        end_ms: 43332
+      - text: out
+        start_ms: 43332
+        end_ms: 43556
+  - text: "tniop siht ta  ti gniod  nuf  adnik  s'tI "
+    start_ms: 50131
+    end_ms: 51600
+    vocalist:
+      - v1
+    words:
+      - text: "tniop "
+        start_ms: 50131
+        end_ms: 50383
+      - text: "siht "
+        start_ms: 50383
+        end_ms: 50593
+      - text: "ta  "
+        start_ms: 50593
+        end_ms: 50751
+      - text: "ti "
+        start_ms: 50751
+        end_ms: 50846
+      - text: "gniod  "
+        start_ms: 50846
+        end_ms: 51014
+      - text: "nuf  "
+        start_ms: 51014
+        end_ms: 51235
+      - text: "adnik  "
+        start_ms: 51235
+        end_ms: 51455
+      - text: "s'tI "
+        start_ms: 51455
+        end_ms: 51600
+  - text: Ha
+    start_ms: 52518
+    end_ms: 52734
+    vocalist:
+      - v2
+    words:
+      - text: Ha
+        start_ms: 52518
+        end_ms: 52734
+  - text: Fate decides
+    start_ms: 58134
+    end_ms: 60526
+    vocalist:
+      - v1
+    words:
+      - text: "Fate "
+        start_ms: 58134
+        end_ms: 58922
+      - text: de
+        start_ms: 58922
+        end_ms: 59032
+      - text: cides
+        start_ms: 59032
+        end_ms: 60526
+  - text: How these columns align
+    start_ms: 60901
+    end_ms: 63450
+    vocalist:
+      - v1
+    words:
+      - text: "How "
+        start_ms: 60901
+        end_ms: 61299
+      - text: "these "
+        start_ms: 61299
+        end_ms: 61717
+      - text: co
+        start_ms: 61717
+        end_ms: 61980
+      - text: "lumns "
+        start_ms: 61980
+        end_ms: 62332
+      - text: align
+        start_ms: 62332
+        end_ms: 63450
+  - text: Birth by chess or benign
+    start_ms: 64225
+    end_ms: 67065
+    vocalist:
+      - v1
+    words:
+      - text: "Birth "
+        start_ms: 64225
+        end_ms: 64586
+      - text: "by "
+        start_ms: 64586
+        end_ms: 65010
+      - text: "chess "
+        start_ms: 65010
+        end_ms: 65305
+      - text: "or "
+        start_ms: 65305
+        end_ms: 65683
+      - text: be
+        start_ms: 65683
+        end_ms: 65853
+      - text: nign
+        start_ms: 65853
+        end_ms: 67065
+  - text: Every moment
+    start_ms: 67597
+    end_ms: 71327
+    vocalist:
+      - v1
+    words:
+      - text: "Every "
+        start_ms: 67597
+        end_ms: 68368
+      - text: mo
+        start_ms: 68368
+        end_ms: 70025
+      - text: ment
+        start_ms: 70025
+        end_ms: 71327
+  - text: Marble gods
+    start_ms: 71725
+    end_ms: 73749
+    vocalist:
+      - v1
+    words:
+      - text: Mar
+        start_ms: 71725
+        end_ms: 72301
+      - text: "ble "
+        start_ms: 72301
+        end_ms: 72493
+      - text: gods
+        start_ms: 72493
+        end_ms: 73749
+  - text: Tango circles in space
+    start_ms: 74203
+    end_ms: 77146
+    vocalist:
+      - v1
+    words:
+      - text: Tan
+        start_ms: 74203
+        end_ms: 74604
+      - text: "go "
+        start_ms: 74604
+        end_ms: 75013
+      - text: cir
+        start_ms: 75013
+        end_ms: 75256
+      - text: "cles "
+        start_ms: 75256
+        end_ms: 75579
+      - text: "in "
+        start_ms: 75579
+        end_ms: 75859
+      - text: space
+        start_ms: 75859
+        end_ms: 77146
+  - text: "'Round the already dead"
+    start_ms: 77542
+    end_ms: 80364
+    vocalist:
+      - v1
+    words:
+      - text: "'Round "
+        start_ms: 77542
+        end_ms: 77917
+      - text: "the "
+        start_ms: 77917
+        end_ms: 78314
+      - text: al
+        start_ms: 78314
+        end_ms: 78637
+      - text: rea
+        start_ms: 78637
+        end_ms: 78871
+      - text: "dy "
+        start_ms: 78871
+        end_ms: 79147
+      - text: dead
+        start_ms: 79147
+        end_ms: 80364
+  - text: Hung by staircase up
+    start_ms: 80866
+    end_ms: 85765
+    vocalist:
+      - v1
+    words:
+      - text: "Hung "
+        start_ms: 80866
+        end_ms: 81208
+      - text: "by "
+        start_ms: 81208
+        end_ms: 81662
+      - text: stair
+        start_ms: 81662
+        end_ms: 83370
+      - text: "case "
+        start_ms: 83370
+        end_ms: 84978
+      - text: up
+        start_ms: 84978
+        end_ms: 85765
+  - text: ah- aH I panicked
+    start_ms: 87087
+    end_ms: 88340
+    vocalist:
+      - v1
+    role: background
+    words:
+      - text: "ah- "
+        start_ms: 87087
+        end_ms: 87502
+      - text: "aH "
+        start_ms: 87502
+        end_ms: 87937
+      - text: "I "
+        start_ms: 88147
+        end_ms: 88240
+      - text: panicked
+        start_ms: 88240
+        end_ms: 88340
+  - text: Wow
+    start_ms: 92924
+    end_ms: 93641
+    vocalist:
+      - v1
+    words:
+      - text: Wow
+        start_ms: 92924
+        end_ms: 93641
+  - text: Ha- ha
+    start_ms: 97934
+    end_ms: 98365
+    vocalist:
+      - v1
+    role: background
+    words:
+      - text: "Ha- "
+        start_ms: 97934
+        end_ms: 98103
+      - text: ha
+        start_ms: 98103
+        end_ms: 98365
+  - text: Ha- ha
+    start_ms: 100203
+    end_ms: 100868
+    vocalist:
+      - v2
+    words:
+      - text: "Ha- "
+        start_ms: 100203
+        end_ms: 100409
+      - text: ha
+        start_ms: 100409
+        end_ms: 100868
+  - text: On and on
+    start_ms: 111792
+    end_ms: 113384
+    vocalist:
+      - v1
+    words:
+      - text: "On "
+        start_ms: 111792
+        end_ms: 112370
+      - text: "and "
+        start_ms: 112370
+        end_ms: 112556
+      - text: on
+        start_ms: 112556
+        end_ms: 113384
+  - text: The awakening light
+    start_ms: 116681
+    end_ms: 123186
+    vocalist:
+      - v1
+    words:
+      - text: "The "
+        start_ms: 116681
+        end_ms: 117535
+      - text: a
+        start_ms: 117535
+        end_ms: 118356
+      - text: wa
+        start_ms: 118356
+        end_ms: 119510
+      - text: "kening "
+        start_ms: 119510
+        end_ms: 119976
+      - text: light
+        start_ms: 119976
+        end_ms: 123186
+  - text: Will bathe slumbers
+    start_ms: 124854
+    end_ms: 128202
+    vocalist:
+      - v1
+    words:
+      - text: "Will "
+        start_ms: 124854
+        end_ms: 125034
+      - text: "bathe "
+        start_ms: 125034
+        end_ms: 126208
+      - text: slum
+        start_ms: 126702
+        end_ms: 127031
+      - text: bers
+        start_ms: 127031
+        end_ms: 128202
+  - text: Of ethereal sights
+    start_ms: 130032
+    end_ms: 137850
+    vocalist:
+      - v1
+    words:
+      - text: "Of "
+        start_ms: 130032
+        end_ms: 130794
+      - text: e
+        start_ms: 130794
+        end_ms: 131702
+      - text: the
+        start_ms: 131702
+        end_ms: 132917
+      - text: re
+        start_ms: 132917
+        end_ms: 133152
+      - text: "al "
+        start_ms: 133152
+        end_ms: 133368
+      - text: sight
+        start_ms: 133368
+        end_ms: 137544
+      - text: s
+        start_ms: 137544
+        end_ms: 137850
+  - text: Today is renewed, is reborn
+    start_ms: 138147
+    end_ms: 142932
+    vocalist:
+      - v1
+    words:
+      - text: "Today "
+        start_ms: 138147
+        end_ms: 139242
+      - text: "is "
+        start_ms: 139638
+        end_ms: 139809
+      - text: re
+        start_ms: 139809
+        end_ms: 140010
+      - text: "newed, "
+        start_ms: 140010
+        end_ms: 141159
+      - text: "is "
+        start_ms: 141159
+        end_ms: 141437
+      - text: re
+        start_ms: 141437
+        end_ms: 141691
+      - text: born
+        start_ms: 141691
+        end_ms: 142932
+  - text: Each day, I am new, I am yours
+    start_ms: 144600
+    end_ms: 150762
+    vocalist:
+      - v1
+    words:
+      - text: "Each "
+        start_ms: 144600
+        end_ms: 144990
+      - text: "day, "
+        start_ms: 144990
+        end_ms: 145884
+      - text: "I "
+        start_ms: 146298
+        end_ms: 146490
+      - text: "am "
+        start_ms: 146490
+        end_ms: 146728
+      - text: "new, "
+        start_ms: 146728
+        end_ms: 147564
+      - text: "I "
+        start_ms: 147942
+        end_ms: 148104
+      - text: "am "
+        start_ms: 148104
+        end_ms: 148362
+      - text: yours
+        start_ms: 148362
+        end_ms: 150762
+  - text: So please dismiss
+    start_ms: 150903
+    end_ms: 153786
+    vocalist:
+      - v1
+    words:
+      - text: "So "
+        start_ms: 150903
+        end_ms: 151649
+      - text: "please "
+        start_ms: 151649
+        end_ms: 152322
+      - text: dis
+        start_ms: 152322
+        end_ms: 152508
+      - text: miss
+        start_ms: 152508
+        end_ms: 153786
+  - text: What they claim about this
+    start_ms: 154194
+    end_ms: 157050
+    vocalist:
+      - v1
+    words:
+      - text: "What "
+        start_ms: 154194
+        end_ms: 154566
+      - text: "they "
+        start_ms: 154566
+        end_ms: 155028
+      - text: "claim "
+        start_ms: 155028
+        end_ms: 155370
+      - text: a
+        start_ms: 155370
+        end_ms: 155586
+      - text: "bout "
+        start_ms: 155586
+        end_ms: 155958
+      - text: this
+        start_ms: 155958
+        end_ms: 157050
+  - text: Being in vain to explain
+    start_ms: 157554
+    end_ms: 160651
+    vocalist:
+      - v1
+    words:
+      - text: "Being "
+        start_ms: 157554
+        end_ms: 157890
+      - text: "in "
+        start_ms: 157890
+        end_ms: 158377
+      - text: "vain "
+        start_ms: 158377
+        end_ms: 158832
+      - text: "to "
+        start_ms: 158832
+        end_ms: 159008
+      - text: ex
+        start_ms: 159008
+        end_ms: 159345
+      - text: plain
+        start_ms: 159345
+        end_ms: 160651
+  - text: How expressed with a kiss
+    start_ms: 160851
+    end_ms: 163665
+    vocalist:
+      - v1
+    words:
+      - text: "How "
+        start_ms: 160851
+        end_ms: 161253
+      - text: ex
+        start_ms: 161253
+        end_ms: 161603
+      - text: "pressed "
+        start_ms: 161603
+        end_ms: 162081
+      - text: "with "
+        start_ms: 162081
+        end_ms: 162345
+      - text: "a "
+        start_ms: 162345
+        end_ms: 162675
+      - text: kiss
+        start_ms: 162675
+        end_ms: 163665
+  - text: Taking passionate steps
+    start_ms: 164241
+    end_ms: 167049
+    vocalist:
+      - v1
+    words:
+      - text: Tak
+        start_ms: 164241
+        end_ms: 164607
+      - text: "ing "
+        start_ms: 164607
+        end_ms: 164973
+      - text: pas
+        start_ms: 164973
+        end_ms: 165270
+      - text: sion
+        start_ms: 165270
+        end_ms: 165599
+      - text: "ate "
+        start_ms: 165599
+        end_ms: 165963
+      - text: steps
+        start_ms: 165963
+        end_ms: 167049
+  - text: Floor suspending abyss
+    start_ms: 167571
+    end_ms: 170373
+    vocalist:
+      - v1
+    words:
+      - text: "Floor "
+        start_ms: 167571
+        end_ms: 167907
+      - text: sus
+        start_ms: 167907
+        end_ms: 168309
+      - text: pend
+        start_ms: 168309
+        end_ms: 168646
+      - text: "ing "
+        start_ms: 168646
+        end_ms: 168963
+      - text: a
+        start_ms: 168963
+        end_ms: 169245
+      - text: byss
+        start_ms: 169245
+        end_ms: 170373
+  - text: Such impossible bliss
+    start_ms: 170838
+    end_ms: 173853
+    vocalist:
+      - v1
+    words:
+      - text: "Such "
+        start_ms: 170838
+        end_ms: 171243
+      - text: im
+        start_ms: 171243
+        end_ms: 171501
+      - text: poss
+        start_ms: 171501
+        end_ms: 172017
+      - text: "ible "
+        start_ms: 172017
+        end_ms: 172533
+      - text: bliss
+        start_ms: 172533
+        end_ms: 173853
+  - text: Such impossible bliss
+    start_ms: 173980
+    end_ms: 177199
+    vocalist:
+      - v1
+    words:
+      - text: "Such "
+        start_ms: 173980
+        end_ms: 174549
+      - text: im
+        start_ms: 174549
+        end_ms: 174809
+      - text: poss
+        start_ms: 174809
+        end_ms: 175330
+      - text: "ible "
+        start_ms: 175330
+        end_ms: 175851
+      - text: bliss
+        start_ms: 175851
+        end_ms: 177199
+  - text: Such impossible bliss
+    start_ms: 177534
+    end_ms: 180585
+    vocalist:
+      - v1
+    words:
+      - text: "Such "
+        start_ms: 177534
+        end_ms: 177921
+      - text: im
+        start_ms: 177921
+        end_ms: 178178
+      - text: poss
+        start_ms: 178178
+        end_ms: 178692
+      - text: "ible "
+        start_ms: 178692
+        end_ms: 179205
+      - text: bliss
+        start_ms: 179205
+        end_ms: 180585
+  - text: Such impossible bliss
+    start_ms: 180861
+    end_ms: 183717
+    vocalist:
+      - v1
+    words:
+      - text: "Such "
+        start_ms: 180861
+        end_ms: 181239
+      - text: im
+        start_ms: 181239
+        end_ms: 181689
+      - text: poss
+        start_ms: 181689
+        end_ms: 182072
+      - text: "ible "
+        start_ms: 182072
+        end_ms: 182565
+      - text: bliss
+        start_ms: 182565
+        end_ms: 183717
+  - text: Such impossible bliss
+    start_ms: 184185
+    end_ms: 188889
+    vocalist:
+      - v1
+    words:
+      - text: "Such "
+        start_ms: 184185
+        end_ms: 184587
+      - text: im
+        start_ms: 184587
+        end_ms: 184893
+      - text: poss
+        start_ms: 184893
+        end_ms: 185350
+      - text: "ible "
+        start_ms: 185350
+        end_ms: 185859
+      - text: bliss
+        start_ms: 185859
+        end_ms: 188889
+  - text: Such impossible bliss
+    start_ms: 190845
+    end_ms: 195227
+    vocalist:
+      - v1
+    words:
+      - text: "Such "
+        start_ms: 190845
+        end_ms: 191253
+      - text: im
+        start_ms: 191253
+        end_ms: 191520
+      - text: poss
+        start_ms: 191520
+        end_ms: 192061
+      - text: "ible "
+        start_ms: 192061
+        end_ms: 192533
+      - text: bliss
+        start_ms: 192533
+        end_ms: 195227
+plain: |-
+  Drift aloft
+  In some effortless place
+  Bound by delicate dread
+  Saving no face
+  Air dissolves
+  Where one game is designed
+  Something's elegant find
+  So the program goes
+  Check it out
+  tniop siht ta  ti gniod  nuf  adnik  s'tI 
+  Ha
+  Fate decides
+  How these columns align
+  Birth by chess or benign
+  Every moment
+  Marble gods
+  Tango circles in space
+  'Round the already dead
+  Hung by staircase up
+  ah- aH I panicked
+  Wow
+  Ha- ha
+  Ha- ha
+  On and on
+  The awakening light
+  Will bathe slumbers
+  Of ethereal sights
+  Today is renewed, is reborn
+  Each day, I am new, I am yours
+  So please dismiss
+  What they claim about this
+  Being in vain to explain
+  How expressed with a kiss
+  Taking passionate steps
+  Floor suspending abyss
+  Such impossible bliss
+  Such impossible bliss
+  Such impossible bliss
+  Such impossible bliss
+  Such impossible bliss
+  Such impossible bliss
+

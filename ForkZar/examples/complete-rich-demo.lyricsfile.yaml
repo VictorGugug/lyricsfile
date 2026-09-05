@@ -1,0 +1,210 @@
+lyricsfile: "1.1"
+version: "1.1"
+metadata:
+  title: Starlight Horizons
+  artist: Nova ft. Orion
+  album: Celestial Journey
+  duration_ms: 180000
+  offset_ms: 0
+  instrumental: false
+  language: en
+  vocalists:
+    - id: v1
+      name: Nova
+      type: person
+    - id: v2
+      name: Orion
+      type: person
+    - id: v4
+      name: Nova & Orion
+      type: group
+x_amll_tool:
+  created_by_discord: demo_user
+  reversed_sync_lines: []
+  extra_metadata:
+    songwriter:
+      - Cosmic Dreamer
+    composer:
+      - Astral Beats
+sections:
+  - kind: intro
+    label: Intro
+    start_ms: 0
+    end_ms: 4000
+  - kind: verse
+    label: Verse 1
+    start_ms: 4000
+    end_ms: 15000
+  - kind: chorus
+    label: Chorus
+    start_ms: 15000
+    end_ms: 28000
+plain: |
+  [Intro]
+  (Echoes in the dark)
+  [Verse 1]
+  We walk beneath the neon rain
+  Searching for a spark again
+  [Chorus]
+  Fly forever to the sky
+  星 shining bright tonight
+plain_transliteration: |
+  [Intro]
+  (Echoes in the dark)
+  [Verse 1]
+  We walk beneath the neon rain
+  Searching for a spark again
+  [Chorus]
+  Fly forever to the sky
+  hoshi shining bright tonight
+plain_translation: |
+  [Intro]
+  (Ecos en la oscuridad)
+  [Verso 1]
+  Caminamos bajo la lluvia de neón
+  Buscando una chispa otra vez
+  [Coro]
+  Vuela por siempre hacia el cielo
+  Estrella brillando intensamente esta noche
+lines:
+  - text: (Echoes in the dark)
+    start_ms: 1000
+    end_ms: 3800
+    vocalist:
+      - v1-bg
+    role: background
+    translation: (Ecos en la oscuridad)
+    words:
+      - text: "(Echoes "
+        start_ms: 1000
+        end_ms: 1800
+      - text: "in "
+        start_ms: 1800
+        end_ms: 2200
+      - text: "the "
+        start_ms: 2200
+        end_ms: 2600
+      - text: "dark)"
+        start_ms: 2600
+        end_ms: 3800
+  - text: We walk beneath the neon rain
+    start_ms: 4200
+    end_ms: 8500
+    vocalist:
+      - v1
+    translation: Caminamos bajo la lluvia de neón
+    words:
+      - text: We
+        start_ms: 4200
+        end_ms: 4800
+        trailing_separator: " "
+      - text: walk
+        start_ms: 4800
+        end_ms: 5500
+        trailing_separator: " "
+      - text: beneath
+        start_ms: 5500
+        end_ms: 6600
+        trailing_separator: " "
+      - text: the
+        start_ms: 6600
+        end_ms: 7000
+        trailing_separator: " "
+      - text: neon
+        start_ms: 7000
+        end_ms: 7700
+        trailing_separator: " "
+      - text: rain
+        start_ms: 7700
+        end_ms: 8500
+  - text: Searching for a spark again
+    start_ms: 8800
+    end_ms: 13500
+    vocalist:
+      - v2
+    translation: Buscando una chispa otra vez
+    words:
+      - text: Searching
+        start_ms: 8800
+        end_ms: 9900
+        trailing_separator: " "
+      - text: for
+        start_ms: 9900
+        end_ms: 10400
+        trailing_separator: " "
+      - text: a
+        start_ms: 10400
+        end_ms: 10800
+        trailing_separator: " "
+      - text: spark
+        start_ms: 10800
+        end_ms: 12000
+        trailing_separator: " "
+      - text: again
+        start_ms: 12000
+        end_ms: 13500
+  - text: Fly forever to the sky
+    start_ms: 15200
+    end_ms: 20500
+    vocalist:
+      - v4
+    translation: Vuela por siempre hacia el cielo
+    words:
+      - text: Fly
+        start_ms: 15200
+        end_ms: 16200
+        trailing_separator: " "
+      - text: forever
+        start_ms: 16200
+        end_ms: 18500
+        trailing_separator: " "
+        syllables:
+          - text: for
+            start_ms: 16200
+            end_ms: 16800
+          - text: ev
+            start_ms: 16800
+            end_ms: 17600
+          - text: er
+            start_ms: 17600
+            end_ms: 18500
+      - text: to
+        start_ms: 18500
+        end_ms: 19000
+        trailing_separator: " "
+      - text: the
+        start_ms: 19000
+        end_ms: 19400
+        trailing_separator: " "
+      - text: sky
+        start_ms: 19400
+        end_ms: 20500
+  - text: 星 shining bright tonight
+    start_ms: 21000
+    end_ms: 26500
+    vocalist:
+      - v1
+    transliteration: hoshi shining bright tonight
+    translation: Estrella brillando intensamente esta noche
+    words:
+      - text: 星
+        start_ms: 21000
+        end_ms: 22200
+        trailing_separator: " "
+        transliteration: hoshi
+        segments:
+          - text: 星
+            start_ms: 21000
+            end_ms: 22200
+            transliteration: hoshi
+      - text: shining
+        start_ms: 22200
+        end_ms: 23600
+        trailing_separator: " "
+      - text: bright
+        start_ms: 23600
+        end_ms: 24800
+        trailing_separator: " "
+      - text: tonight
+        start_ms: 24800
+        end_ms: 26500
